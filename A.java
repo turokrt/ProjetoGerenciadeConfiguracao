@@ -11,7 +11,7 @@ public class A{
         A2 = a2;
     }
     
-    public void setA3(String A3){
+    public void setA3(String a3){
         A3 = a3;
     }
     
@@ -25,5 +25,9 @@ public class A{
     
     public String getA3(){
         return A3;
+    }
+    
+    public float soma(){
+        return A1+A2;
     }
 }
