@@ -29,5 +29,6 @@ public class A{
     
     public float soma(){
         return A1+A2;
+        
     }
 }
